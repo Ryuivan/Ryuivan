@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Ryu%20Ivan%20Wijaya&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descFontSize=18&descFontColor=cbd5e1&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="assets/header.svg" width="100%" alt="Ryu Ivan Wijaya - Software Engineer" />
   
+  <br /><br />
+
   <p align="center">
     <a href="https://linkedin.com/in/ryu-ivan-wijaya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://ryuivan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ryuivan.vercel.app-0284c7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -160,29 +162,13 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
 ## GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryuivan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Ryuivan's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuivan&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryuivan&theme=tokyonight" alt="GitHub Profile Details" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryuivan&theme=tokyonight" alt="GitHub Repos Per Language" />
 
   <br /><br />
 
-  ### Contribution Activity
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuivan/Ryuivan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryuivan/Ryuivan/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ryuivan/Ryuivan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Ryuivan&theme=tokyonight&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
 </div>
 
 ---
@@ -206,5 +192,5 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
 
   <br /><br />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="assets/footer.svg" width="100%" alt="Footer Divider" />
 </div>
