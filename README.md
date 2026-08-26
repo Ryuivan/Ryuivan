@@ -162,13 +162,24 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
 ## GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryuivan&theme=tokyonight" alt="GitHub Profile Details" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryuivan&theme=tokyonight" alt="GitHub Repos Per Language" />
-
-  <br /><br />
-
-  <img src="https://streak-stats.demolab.com/?user=Ryuivan&theme=tokyonight&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryuivan&theme=tokyonight" alt="GitHub Profile Details" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryuivan&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryuivan&theme=tokyonight" alt="GitHub Repos Per Language" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryuivan&theme=tokyonight" alt="GitHub Most Commit Language" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
