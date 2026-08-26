@@ -45,7 +45,7 @@
     <text x="0" y="68" class="name">Ryu Ivan Wijaya</text>
     
     <!-- Role Sub-heading -->
-    <text x="0" y="102" class="role">Software Engineer  •  Full-Stack &amp; Backend Developer</text>
+    <text x="0" y="102" class="role">Software Engineer</text>
 
     <!-- Status Chip -->
     <g transform="translate(0, 124)">
