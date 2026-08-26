@@ -19,7 +19,7 @@
 Informatics Graduate | Multimedia Nusantara University (GPA: 3.87 / 4.00)
 Ex-Software Engineer Intern @ PT. Kalbe Farma Tbk
 Backend Developer @ Minyma E-Invitation
-English TOEIC 935 / 990 (Professional Working Proficiency)
+English TOEIC LR 935 / 990 (Professional Working Proficiency)
 Location: Tangerang, Indonesia
 ```
 
@@ -58,7 +58,7 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
 ![RESTful API](https://img.shields.io/badge/API-RESTful_Design-0f172a?style=flat-square)
 ![Payment Gateway](https://img.shields.io/badge/Integration-Midtrans_Payment-0f172a?style=flat-square)
 ![Enterprise Deployment](https://img.shields.io/badge/Protocol-Operational_Qualification_(OQ)-0f172a?style=flat-square)
-![AI/ML](https://img.shields.io/badge/AI%2FML-W--SFCM_%26_SVM-0f172a?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-wsFCM_%26_SVM-0f172a?style=flat-square)
 
 </div>
 
@@ -107,7 +107,7 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
       <p><b>PT. Kalbe Farma Tbk (2026)</b></p>
       <p>A centralized internal platform with a built-in document editor to replace third-party vendor dependencies, ensuring strict data governance and reliable migration for complex regulatory submissions.</p>
       <p>
-        <code>Next.js</code> <code>TypeScript</code> <code>Enterprise Arch</code> <code>OQ Protocol</code>
+        <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Docker</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
       <p><b>PT. Kalbe Farma Tbk (2026)</b></p>
       <p>Automated manual analytical workflows by developing real-time data simulations, streamlining heavy data processing, and empowering the division to make fast data-driven decisions.</p>
       <p>
-        <code>Next.js</code> <code>TypeScript</code> <code>Data Simulation</code> <code>Analytics</code>
+        <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Docker</code>
       </p>
     </td>
   </tr>
@@ -133,7 +133,7 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
       <p><b>Lead Web Developer (2024)</b></p>
       <p>The official information hub for incoming university freshmen, integrating a standalone media gallery and native data management system to eliminate third-party drive dependencies.</p>
       <p>
-        <code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>Node.js</code>
+        <code>React</code> <code>TailwindCSS</code> <code>Firebase</code>
       </p>
     </td>
   </tr>
@@ -149,9 +149,9 @@ Recent **Informatics graduate** with a **T-shaped software engineering skill set
     <td width="50%" valign="top">
       <h3>Low-Grade Gliomas AI Classification</h3>
       <p><b>Undergraduate Thesis (2026)</b></p>
-      <p>Computer-aided segmentation and classification of Low-Grade Gliomas (Grade II vs III) using Weighted Spatial Fuzzy C-Means (W-SFCM) and Support Vector Machine (SVM).</p>
+      <p>Computer-aided segmentation and classification of Low-Grade Gliomas (Grade II vs III) using Weighted Spatial Fuzzy C-Means (wsFCM) and Support Vector Machine (SVM).</p>
       <p>
-        <code>Python</code> <code>Machine Learning</code> <code>SVM</code> <code>W-SFCM</code>
+        <code>Python</code> <code>Machine Learning</code> <code>SVM</code> <code>wsFCM</code>
       </p>
     </td>
   </tr>
